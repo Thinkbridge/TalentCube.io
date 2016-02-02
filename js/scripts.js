@@ -130,7 +130,7 @@
     ---------------------*/
     $("#map").gmap3({
         marker:{     
-        address:"44 W 66th St, New York, NY", 
+        address:"917 Freewater Lane, Austin TX", 
         options:{ icon: "img/assets/marker.png"}},
         map:{
         options:{
